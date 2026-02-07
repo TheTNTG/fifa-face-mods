@@ -2,13 +2,15 @@
 
 A collection of high-fidelity 3D face reconstructions integrated into the Frostbite Engine.
 
-## 📂 Projects Included
-1.  **Custom Face A (Self-Portrait):** Built from reference photos using vertex manipulation.
-2.  **Custom Face B:** Adapted generic mesh to match specific facial structure.
+## 📂 Asset List
 
-## 🛠 Technical Showcase
-### Mesh Topology
-*Optimized vertex structure for the Frostbite Engine.*
+1.  **Subject: Abid (Self-Portrait)**
+    * *Technique:* Single-source reference reconstruction.
+    * *Method:* Manual vertex manipulation and sculpting to match facial structure while strictly preserving the original mesh topology (vertex count) for full animation compatibility.
+
+2.  **Subject: Arif**
+    * *Technique:* Single-source reference reconstruction.
+    * *Method:* Utilized Blender's sculpt tools to refine features from a base mesh, translating vertices to match the reference photo without altering mesh density.
 
 | Reference Picture View (Initial) | Wireframe View (Blender) | In-Game Render (Final) |
 | :---: | :---: | :---: |
