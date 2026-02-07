@@ -12,13 +12,14 @@ A collection of high-fidelity 3D face reconstructions integrated into the Frostb
 
 | Reference Picture View (Initial) | Wireframe View (Blender) | In-Game Render (Final) |
 | :---: | :---: | :---: |
-|<img width="257" height="373" alt="ref" src="https://github.com/user-attachments/assets/e138e316-6ba1-4b90-98fe-7f9e897d4a70" />|<img width="257" height="373" alt="wireframe" src="https://github.com/user-attachments/assets/2bcf2f94-258a-4df8-9d83-a20cbc406374" />| YOUR-INGAME-SCREENSHOT.jpg|
+|<img width="257" height="373" alt="ref" src="https://github.com/user-attachments/assets/e138e316-6ba1-4b90-98fe-7f9e897d4a70" />|<img width="257" height="373" alt="wireframe" src="https://github.com/user-attachments/assets/2bcf2f94-258a-4df8-9d83-a20cbc406374" />|<img width="257" height="373" alt="igp2" src="https://github.com/user-attachments/assets/be3f2806-b939-4188-b17b-628ae1f97d62" />|
 |<img width="257" height="373" alt="ref" src="https://github.com/user-attachments/assets/ae7738fa-a68a-48b1-af6e-f95c069a6951" />|<img width="257" height="373" alt="wireframe" src="https://github.com/user-attachments/assets/c5bfcd41-9ca7-49b4-9e13-0bb3ae4d76c3" />|<img width="257" height="373" alt="EA SPORTS FC 26 Screenshot 2026 02 07 - 13 44 10 75" src="https://github.com/user-attachments/assets/20856a24-96a3-49f6-b8b4-77e8135a6838" />|
 
 ## 🔧 Tools Used
 * **Blender 3.7** (Sculpting & Texture Mapping)
 * **FIFA Editor Tool** (For Accessing Generic Texture & Manipulation)
 * **FIFA MOD MANAGER** (For Applying Modifications To The Game)
+
 
 
 
