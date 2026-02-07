@@ -12,9 +12,9 @@ A collection of high-fidelity 3D face reconstructions integrated into the Frostb
 
 | Reference Picture View (Initial) | Wireframe View (Blender) | In-Game Render (Final) |
 | :---: | :---: | :---: |
-| (<img width="180" height="180" alt="ref" src="https://github.com/user-attachments/assets/057d47a7-e8ca-49a9-965d-0e563edb223d" />
-) | (<img width="945" height="806" alt="wireframe" src="https://github.com/user-attachments/assets/428caea1-9213-4ebb-9436-510e19c695df" />
-) | (YOUR-INGAME-SCREENSHOT.jpg) |
+| <img width="180" height="180" alt="ref" src="https://github.com/user-attachments/assets/057d47a7-e8ca-49a9-965d-0e563edb223d" />
+ | <img width="945" height="806" alt="wireframe" src="https://github.com/user-attachments/assets/428caea1-9213-4ebb-9436-510e19c695df" />
+ | YOUR-INGAME-SCREENSHOT.jpg |
 
 ## 🔧 Tools Used
 * **Blender 3.7** (Sculpting & Texture Mapping)
